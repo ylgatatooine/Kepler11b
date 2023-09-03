@@ -4,7 +4,7 @@ Leverage Google Video Intelligence service to transcribe from a video or audio f
 2. Store the video or audio file on Google Cloud Storage
 3. Run, e.g. Google Cloud Shell Editor and ipython. 
 
-
+Todo: Check out Llama models 
 """
 
 
