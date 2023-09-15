@@ -1,10 +1,10 @@
-# Quick start with Code Llama locally
+## Quick start with Code Llama locally
 
 **Code LLama**: An LLM by META designed to assist software engineers in coding tasks, offering a wide range of functionalities, from code completion to detailed code-related support. This guide explores three local running methods to empower your coding needs.
 
 Here, we'll explore three methods: **Ollama**, **Llama.cpp**, and **Open Interpreter**. Each method provides unique benefits, allowing you to choose the one that best suits your requirements. You can have Code LLama up and running in just 3 minutes using **"ollama"** or **"Open Interpreter"**.
 
-## A bit about Code Llama. 
+### A bit about Code Llama. 
 Skip, if you know Code Llam at a high level already. 
 
 **Code LLama Model Variants:**
@@ -18,7 +18,7 @@ Skip, if you know Code Llam at a high level already.
 **Code LLama – Python:**
 - A specialized variation fine-tuned on 100B tokens of Python code.
 
-## Ollama: Quick and Versatile
+### Ollama: Quick and Versatile
 
 **Ollama** is the easiest-to-setup method, providing broad support for running all Code LLAMA models locally. It can be up and running in just 3 minutes and effectively utilizes GPU resources, making it an excellent choice for Mac users. Here are some examples of running Code LLAMA models with Ollama:
 
@@ -41,7 +41,7 @@ Skip, if you know Code Llam at a high level already.
     ollama run codellama:34b-python
     ```
 
-## Llama.cpp: Powerful and Flexible
+### Llama.cpp: Powerful and Flexible
 
 **Llama.cpp** offers a more powerful and flexible implementation for running Code LLAMA locally. It's an ideal choice if you require advanced capabilities and customization. With Llama.cpp, you can delve deeper into Code LLAMA's potential.
 
@@ -84,9 +84,7 @@ For a detailed example of running Code LLAMA with Open Interpreter, please refer
     Press CTRL-C to exit.
                                                                                                                                          
     > write a python function to find the kth smallest element in an integer array of random numbers, using Quickselect algorithm
-
    ```
-   
-# Conclusion
+## Conclusion
 
-Hope you have a good idea of the three ways to run Code LLAMA locally today, you can pick the one that suits you best. Get started, explore these methods, and unleash Code LLAMA's capabilities for your coding and experimentation. Happy coding!
+Hope now you have a good idea of the three ways to run Code LLAMA locally today, you can pick the one that suits you best. Get started, explore these methods, and unleash Code LLAMA's capabilities for your coding and experimentation. Happy coding!
