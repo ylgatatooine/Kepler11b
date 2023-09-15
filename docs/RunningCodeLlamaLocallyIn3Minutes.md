@@ -22,7 +22,7 @@ Skip, if you know Code Llam at a high level already.
 
 **Ollama** is the easiest-to-setup method, providing broad support for running all Code LLAMA models locally. It can be up and running in just 3 minutes and effectively utilizes GPU resources, making it an excellent choice for Mac users. Here are some examples of running Code LLAMA models with Ollama:
 
-1. [download](https://ollama.ai/download) the binary for MacOS, or build from scratch. 
+1. Download [ollama](https://ollama.ai/download) the binary for MacOS, or build from scratch. 
 2. run with command for codellama
    
     ```
@@ -45,9 +45,9 @@ Skip, if you know Code Llam at a high level already.
 
 **Llama.cpp** offers a more powerful and flexible implementation for running Code LLAMA locally. It's an ideal choice if you require advanced capabilities and customization. With Llama.cpp, you can delve deeper into Code LLAMA's potential.
 
-## Open Interpreter: The All-in-One Solution
+## Open Interpreter: The Two-in-One 
 
-**Open Interpreter** is a standout method, my current favorite, that supports both OpenAI's ChatGPT (including GPT-4) and all Code LLAMA models locally. 
+**[Open Interpreter](https://github.com/KillianLucas/open-interpreter)** is a standout method, my current favorite, that supports both OpenAI's ChatGPT (including GPT-4) and all Code LLAMA models locally. 
 
 For a detailed example of running Code LLAMA with Open Interpreter, please refer to the accompanying video tutorial.
 
