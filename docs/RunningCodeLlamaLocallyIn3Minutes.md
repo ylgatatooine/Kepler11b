@@ -89,5 +89,4 @@ For a detailed example of running Code LLAMA with Open Interpreter, please refer
    
 # Conclusion
 
-Now that you know the three ways to run Code LLAMA locally, you can pick the one that suits you best. Get started, explore these methods, and unleash Code LLAMA's capabilities for your coding and experimentation. Happy coding!
----
+Hope you have a good idea of the three ways to run Code LLAMA locally today, you can pick the one that suits you best. Get started, explore these methods, and unleash Code LLAMA's capabilities for your coding and experimentation. Happy coding!
