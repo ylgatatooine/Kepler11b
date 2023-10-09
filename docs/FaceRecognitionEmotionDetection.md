@@ -70,8 +70,7 @@ while(True):
         gender = "male" if predicted_gender[0] == 1 else "female"
         text += " " + gender
 
-        # display the emotion and gender
-        cv2.putText(image, text, (x,y-10), cv2.FONT_HERSHEY_SIMPLEX, 1, (0,255,255), 2)
+        cv2.putText(frame, text, (x,y-10), cv2.FONT_HERSHEY_SIMPLEX, 1, (0,255,255), 2)
 
         # Show the image
         cv2.imshow("Image", frame)
